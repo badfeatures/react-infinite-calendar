@@ -31,8 +31,7 @@
     "recompose": "^0.26.0"
   },
   "peerDependencies": {
-    "react": "^15.3.0 || ^16.0.0",
-    "react-dom": "^15.3.0 || ^16.0.0"
+    "react": "^16.0.0"
   },
   "devDependencies": {
     "@kadira/storybook": "^2.35.3",
@@ -49,8 +48,8 @@
     "node-sass": "^4.5.0",
     "nwb": "^0.15.6",
     "nwb-sass": "^0.7.1",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
   },
   "author": {
     "name": "Clauderic Demers",
