@@ -119,7 +119,6 @@ export default class Years extends Component {
         style={{color: theme.selectionColor, height: height + 50}}
       >
         <VirtualList
-          ref={(ref) => this.List = ref}
           className={styles.list}
           width={width}
           height={containerHeight}

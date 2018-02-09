@@ -35,7 +35,6 @@ export default class Today extends PureComponent {
           color: theme.floatingNav.color,
         }}
         onClick={this.scrollToToday}
-        ref={(ref) => this.node = ref}
       >
         {todayLabel}
         <svg
